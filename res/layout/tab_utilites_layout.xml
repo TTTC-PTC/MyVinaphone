@@ -1,0 +1,56 @@
+<com.vnp.myvinaphone.layout.UtilityLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_weight="4"
+    android:padding="8dp"
+    android:background="@color/background_header" >
+
+    <!-- News Feed Button -->
+
+    <Button
+        android:id="@+id/btn_news_feed"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/news_feed_default"
+        android:text="@string/utilities.hotbill" />
+
+    <!-- Friends Button -->
+
+    <Button
+        android:id="@+id/btn_friends"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/news_feed_default"
+        android:text="@string/utilities.payment" />
+
+    <!-- Messages Button -->
+
+    <Button
+        android:id="@+id/btn_messages"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/news_feed_default"
+        android:text="@string/utilities.payment" />
+
+    <!-- Places Button -->
+
+    <Button
+        android:id="@+id/btn_places"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/news_feed_default"
+        android:text="@string/utilities.pps_debit" />
+
+    <!-- Events Button -->
+
+    <Button
+        android:id="@+id/btn_events"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/news_feed_default"
+        android:text="@string/utilities.data_traffic" />
+
+    <!-- Photos Button -->
+
+    <Button
+        android:id="@+id/btn_photos"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/news_feed_default"
+        android:text="@string/utilities.payment_history" />
+
+</com.vnp.myvinaphone.layout.UtilityLayout>

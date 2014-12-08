@@ -1,0 +1,20 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:orientation="vertical" >
+
+        <include layout="@layout/using_services_layout" />
+
+        <include layout="@layout/new_services_layout" />
+
+        <include layout="@layout/common_services_layout" />
+
+        <include layout="@layout/other_services_layout" />
+    </LinearLayout>
+
+</ScrollView>

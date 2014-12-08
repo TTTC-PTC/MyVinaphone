@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyVinaphone</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    
+<string name="utilities.hotbill">Cước nóng</string>
+<string name="utilities.payment">Nợ cước</string>
+<string name="utilities.pps_debit">TK trả trước</string>
+<string name="utilities.data_traffic">L.lượng data</string>
+<string name="utilities.payment_history">L.sử t.toán</string>
+
+<string name="services.using_package">Gói cước đang sử dụng</string>
+<string name="services.new_package">Gói cước mới nhất</string>
+<string name="services.common_package">Gói cước phổ biến</string>
+<string name="services.other_package">Gói cước khác</string>
+<string name="services.see_more">Xem thêm...</string>
+
+
+
+
+<string name="search.payment_history">Giá cước</string>
+<string name="search.questions">Câu hỏi</string>
+<string name="search.commentofcustomer">Ý kiến KH</string>
+
+
+
+
+
+</resources>

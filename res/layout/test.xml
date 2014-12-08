@@ -1,0 +1,20 @@
+<com.vnp.myvinaphone.layout.EqualLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="200dp" >
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                
+                android:src="@drawable/icon_thongtincanhan" />
+
+            <TextView
+                android:id="@+id/service_name"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:text="EZCom"
+                android:textStyle="normal" />
+
+</com.vnp.myvinaphone.layout.EqualLinearLayout>       
+       

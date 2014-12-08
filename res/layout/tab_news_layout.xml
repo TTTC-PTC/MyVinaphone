@@ -1,0 +1,16 @@
+<com.vnp.myvinaphone.layout.UtilityLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_weight="4"
+    android:background="@color/background_header"
+    android:padding="8dp" >
+
+    <!-- News Feed Button -->
+
+    <Button
+        android:id="@+id/btn_news_feed"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/news_feed_default"
+        android:text="Tin tức" />
+
+</com.vnp.myvinaphone.layout.UtilityLayout>
